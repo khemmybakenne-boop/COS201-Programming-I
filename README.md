@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Ausaji ThankGod Manyo
-- **Matriculation Number:** 25/16454
+- **Name:** Bakenne Oluwakemi Rodiyah
+- **Matriculation Number:** 25/17094
 - **Programme:** Software Engineering
 - **Course Code:** COS 201
 
